@@ -1,15 +1,15 @@
-# Farscape
+# :space_invader: Farscape
 
 Farscape is an engaging 2D platformer game developed in Unity Hub, offering players eight(8) levels set in diverse environments such as the Outskirts/Forest, Dungeon, and Desert Ruins. In this game, players must navigate through various obstacles including spikes, slippery sand edges, arrows, saws, moving platforms, falling surfaces, lava, and the void. Players can collect soul orbs and with every three orbs, it can be converted into one dash ability. The ultimate goal is to conquer each level without dying on the obstacles.
-## Gameplay Showcase
+## :clapper: Gameplay Showcase
 
 Check out the gameplay showcase video [here](https://youtu.be/39qTBprcWBY).
 
-## Installation
+## :game_die: Installer
 
 For the setup installer (.exe), please contact me via email: [sayenmarkjoshua@gmail.com](mailto:sayenmarkjoshua@gmail.com).
 
-## Tools Used
+## :scissors: Tools Used
 
 - **Aseprite:** Utilized for creating 2D sprites.
 - **Adobe Illustrator & Photoshop:** Used in creating canvas and background designs, alongside utilizing free resources.
@@ -19,7 +19,7 @@ For the setup installer (.exe), please contact me via email: [sayenmarkjoshua@gm
 Feel free to reach out for any inquiries or feedback. Enjoy the game!
 
 ---
-## Game Screenshots
+## :video_game: Game Screenshots
 ![image](https://github.com/Jsh-Syn/Farscape-Game/assets/157363386/3a0a390b-5570-49af-96d7-a58e40c47609)
 ![image](https://github.com/Jsh-Syn/Farscape-Game/assets/157363386/84aa8826-bb5a-48f4-b89c-93ed3a6584af)
 ![image](https://github.com/Jsh-Syn/Farscape-Game/assets/157363386/e5dd80a1-c1dc-4e58-ab99-22f416b1b2b2)
